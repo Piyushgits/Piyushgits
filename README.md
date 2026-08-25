@@ -28,3 +28,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushgits&" alt="piyushgits" /></p>
 
+## 📈 My Coding Journey
+
+```text
+C / C++           ████████████████████  Advanced
+DSA               ██████████████████░░  Strong
+Competitive CP    █████████████████░░░  Strong
+MERN              ███████████████░░░░░  Intermediate
+Python            ██████████████░░░░░░  Intermediate
+Machine Learning  ████████████░░░░░░░░  Learning
+System Design     ████████░░░░░░░░░░░░  Learning
