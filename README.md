@@ -7,12 +7,25 @@
 </p>
 
 <h3 align="center">
-  「 Discipline × Curiosity × Consistency = Growth 」 🚀
+  「 Discipline × Curiosity × Consistency = Growth 」 
 </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
+
+          ╭──────────────╮
+          │   ◉      ◉   │
+          │      ▽       │
+          │    ╰───╯     │
+          ╰──────┬───────╯
+             ╭──┴──╮
+          ╭──┤ CODE ├──╮
+          │  ╰─────╯   │
+       ┌──┴─────────────┴──┐
+       │   >_ Hello World  │
+       │   >_ Keep Coding  │
+       └───────────────────┘
+            
 
 
 <a href="https://www.linkedin.com/in/contactpiyushverma" target="_blank">
