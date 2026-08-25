@@ -5,7 +5,11 @@
 <p align="center">
   💙 <b>Favorite Character:</b> Doraemon
 </p>
- 
+
+<h3 align="center">
+  「 Discipline × Curiosity × Consistency = Growth 」 🚀
+</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
