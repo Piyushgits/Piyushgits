@@ -2,7 +2,9 @@
 <h3 align="center">Competitive Programmer | MERN Developer | ML Practitioner</h3>
 
 
-
+<p align="center">
+  💙 <b>Favorite Character:</b> Doraemon
+</p>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +41,3 @@ Python            ██████████████░░░░░░  
 Machine Learning  ████████████░░░░░░░░  Learning
 System Design     ████████░░░░░░░░░░░░  Learning
 
-<p align="center">
-  💙 <b>Favorite Character:</b> Doraemon
-</p>
