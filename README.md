@@ -3,7 +3,7 @@
 
 
 
-- 📫 How to reach me [piyushvrma124@gmail.com](mailto:piyushvrma124@gmail.com)
+- 📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=piyushvrma124@gmail.com">piyushvrma124@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
