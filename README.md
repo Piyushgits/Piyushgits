@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar Verma</h1>
 <h3 align="center">Competitive Programmer | MERN Developer | ML Practitioner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushgits" alt="piyushgits" /></a> </p>
+
 
 - 📫 How to reach me **piyushvrma124@gmail.com**
 
