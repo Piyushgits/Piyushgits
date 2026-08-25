@@ -38,3 +38,7 @@ MERN              ███████████████░░░░░  
 Python            ██████████████░░░░░░  Intermediate
 Machine Learning  ████████████░░░░░░░░  Learning
 System Design     ████████░░░░░░░░░░░░  Learning
+
+<p align="center">
+  💙 <b>Favorite Character:</b> Doraemon
+</p>
