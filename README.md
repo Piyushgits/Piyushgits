@@ -9,10 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<tr>
-    <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
-    <th><a href="source/plugins/languages/README.md">🈷️ Languages activity</a></th>
-  </tr>
 
 
 <a href="https://www.linkedin.com/in/contactpiyushverma" target="_blank">
