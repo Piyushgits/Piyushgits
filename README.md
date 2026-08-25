@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar Verma</h1>
 <h3 align="center">Competitive Programmer | MERN Developer | ML Practitioner</h3>
 
-
+          
 <p align="center">
   💙 <b>Favorite Character:</b> Doraemon
 </p>
@@ -13,18 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-          ╭──────────────╮
-          │   ◉      ◉   │
-          │      ▽       │
-          │    ╰───╯     │
-          ╰──────┬───────╯
-             ╭──┴──╮
-          ╭──┤ CODE ├──╮
-          │  ╰─────╯   │
-       ┌──┴─────────────┴──┐
-       │   >_ Hello World  │
-       │   >_ Keep Coding  │
-       └───────────────────┘
+         
             
 
 
@@ -58,4 +47,15 @@ MERN              ███████████████░░░░░  
 Python            ██████████████░░░░░░  Intermediate
 Machine Learning  ████████████░░░░░░░░  Learning
 System Design     ████████░░░░░░░░░░░░  Learning
+
+
+
+        ██████╗ ██╗██╗   ██╗██╗   ██╗███████╗██╗  ██╗
+        ██╔══██╗██║╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
+        ██████╔╝██║ ╚████╔╝ ██║   ██║███████╗███████║
+        ██╔═══╝ ██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║
+        ██║     ██║   ██║   ╚██████╔╝███████║██║  ██║
+        ╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
+
+
 
