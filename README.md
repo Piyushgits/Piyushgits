@@ -3,7 +3,7 @@
 
 
 
-- 📫 How to reach me piyushvrma124@gmail.com(mailto:piyushvrma124@gmail.com)
+- 📫 How to reach me [piyushvrma124@gmail.com](mailto:piyushvrma124@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
