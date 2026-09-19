@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Piyush </h1>
-<h2 align="center"> COMPETITIVE-CODER  | MERN DEV | ML ETHUSIAST </h2>
+<h2 align="center"> COMPETITIVE PROGRAMMER |  Full-Stack Developer | ML ETHUSIAST </h2>
 
           
 <p align="center">
